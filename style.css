@@ -2,14 +2,10 @@
 
 @font-face {
   font-family: 'EpilogFont';
-  src: url("/Users/leonrolle/Creative Cloud Files/Master_Epilog/epilogfontDE/WEB–FONTS/EpilogFontVF.woff2") format("woff2");
+  src: url("EpilogFontVF.woff2") format("woff2");
   font-weight: 1 999;
 }
- @font-face {
-  font-family: 'EpilotFont';
-  src: url("/Users/leonrolle/Creative Cloud Files/Master_Epilog/epilogfontDE/WEB–FONTS/EpilogFontVF.woff2") format("woff2");
-  font-weight: 1 999;
-}
+
  */
 
 *{
